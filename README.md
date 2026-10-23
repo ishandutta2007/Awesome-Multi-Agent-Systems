@@ -2,7 +2,7 @@
 
 # Awesome-Multi-Agent-Systems
 
-# Top Multi-Agent Systems Ecosystem
+## Top Multi-Agent Systems Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Role-Based Crews, Stateful Graph Orchestration & Production-Grade Observability*  
