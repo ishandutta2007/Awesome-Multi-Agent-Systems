@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Multi-Agent-Systems/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Multi-Agent-Systems?style=flat-square&logo=github&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Multi-Agent-Systems/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Multi-Agent-Systems?style=flat-square&logo=github&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Multi-Agent-Systems/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Multi-Agent-Systems?style=flat-square&logo=github&color=teal" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Multi-Agent-Systems/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Multi-Agent-Systems?style=flat-square&color=orange" alt="Issues"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Multi-Agent-Systems/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License"/></a>
@@ -66,11 +66,11 @@ The table below catalogs premier commercial SaaS multi-agent platforms and manag
 
 ## 💻 Open-Source Multi-Agent Frameworks
 
-Below is the curated list of premier open-source multi-agent systems and developer frameworks. Each framework includes an active live social badge linking directly to that repository's **stargazers page**, sorted in **descending order by GitHub star count**.
+Below is the curated list of premier open-source multi-agent systems and developer frameworks. Each framework includes an active live social badge linking directly to that repository's **stargazers page**, sorted in **descending order by GitHub Stars_Count**.
 
 ---
 
-### 1. [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) [![GitHub stars](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social&color=white)](https://github.com/Significant-Gravitas/AutoGPT/stargazers)
+### 1. [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) [![GitHub_Stars](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social&color=white)](https://github.com/Significant-Gravitas/AutoGPT/stargazers)
 - **GitHub Repository**: [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
 - **License**: MIT
 - **Primary Focus**: Autonomous goal decomposition, recursive task execution, and agentic desktop/cloud workflows.
@@ -82,7 +82,7 @@ Below is the curated list of premier open-source multi-agent systems and develop
 
 ---
 
-### 2. [MetaGPT](https://github.com/FoundationAgents/MetaGPT) [![GitHub stars](https://img.shields.io/github/stars/FoundationAgents/MetaGPT?style=social&color=white)](https://github.com/FoundationAgents/MetaGPT/stargazers)
+### 2. [MetaGPT](https://github.com/FoundationAgents/MetaGPT) [![GitHub_Stars](https://img.shields.io/github/stars/FoundationAgents/MetaGPT?style=social&color=white)](https://github.com/FoundationAgents/MetaGPT/stargazers)
 - **GitHub Repository**: [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT)
 - **License**: MIT
 - **Primary Focus**: Standard Operating Procedures (SOPs) encoded into multi-agent collaborative software teams.
@@ -94,7 +94,7 @@ Below is the curated list of premier open-source multi-agent systems and develop
 
 ---
 
-### 3. [AutoGen (Microsoft)](https://github.com/microsoft/autogen) [![GitHub stars](https://img.shields.io/github/stars/microsoft/autogen?style=social&color=white)](https://github.com/microsoft/autogen/stargazers)
+### 3. [AutoGen (Microsoft)](https://github.com/microsoft/autogen) [![GitHub_Stars](https://img.shields.io/github/stars/microsoft/autogen?style=social&color=white)](https://github.com/microsoft/autogen/stargazers)
 - **GitHub Repository**: [microsoft/autogen](https://github.com/microsoft/autogen)
 - **License**: MIT
 - **Primary Focus**: Conversational multi-agent orchestration, event-driven actor loops, and extensible team patterns.
@@ -106,7 +106,7 @@ Below is the curated list of premier open-source multi-agent systems and develop
 
 ---
 
-### 4. [CrewAI](https://github.com/crewAIInc/crewAI) [![GitHub stars](https://img.shields.io/github/stars/crewAIInc/crewAI?style=social&color=white)](https://github.com/crewAIInc/crewAI/stargazers)
+### 4. [CrewAI](https://github.com/crewAIInc/crewAI) [![GitHub_Stars](https://img.shields.io/github/stars/crewAIInc/crewAI?style=social&color=white)](https://github.com/crewAIInc/crewAI/stargazers)
 - **GitHub Repository**: [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI)
 - **License**: MIT
 - **Primary Focus**: Role-based agent crews with natural organizational abstractions and deterministic event flows.
@@ -118,7 +118,7 @@ Below is the curated list of premier open-source multi-agent systems and develop
 
 ---
 
-### 5. [LangGraph](https://github.com/langchain-ai/langgraph) [![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langgraph?style=social&color=white)](https://github.com/langchain-ai/langgraph/stargazers)
+### 5. [LangGraph](https://github.com/langchain-ai/langgraph) [![GitHub_Stars](https://img.shields.io/github/stars/langchain-ai/langgraph?style=social&color=white)](https://github.com/langchain-ai/langgraph/stargazers)
 - **GitHub Repository**: [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph)
 - **License**: MIT
 - **Primary Focus**: Production-grade cyclical state machines, Pregel-inspired supersteps, and durable execution.
@@ -130,7 +130,7 @@ Below is the curated list of premier open-source multi-agent systems and develop
 
 ---
 
-### 6. [Agno (formerly Phidata)](https://github.com/agno-agi/agno) [![GitHub stars](https://img.shields.io/github/stars/agno-agi/agno?style=social&color=white)](https://github.com/agno-agi/agno/stargazers)
+### 6. [Agno (formerly Phidata)](https://github.com/agno-agi/agno) [![GitHub_Stars](https://img.shields.io/github/stars/agno-agi/agno?style=social&color=white)](https://github.com/agno-agi/agno/stargazers)
 - **GitHub Repository**: [agno-agi/agno](https://github.com/agno-agi/agno)
 - **License**: MIT
 - **Primary Focus**: High-speed, lightweight multi-agent architectures with memory, knowledge, and structured outputs.
@@ -142,7 +142,7 @@ Below is the curated list of premier open-source multi-agent systems and develop
 
 ---
 
-### 7. [ChatDev](https://github.com/OpenBMB/ChatDev) [![GitHub stars](https://img.shields.io/github/stars/OpenBMB/ChatDev?style=social&color=white)](https://github.com/OpenBMB/ChatDev/stargazers)
+### 7. [ChatDev](https://github.com/OpenBMB/ChatDev) [![GitHub_Stars](https://img.shields.io/github/stars/OpenBMB/ChatDev?style=social&color=white)](https://github.com/OpenBMB/ChatDev/stargazers)
 - **GitHub Repository**: [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev)
 - **License**: Apache-2.0
 - **Primary Focus**: Virtual software development company simulated through communicative multi-agent role-playing.
@@ -154,7 +154,7 @@ Below is the curated list of premier open-source multi-agent systems and develop
 
 ---
 
-### 8. [GPT Researcher](https://github.com/assafelovic/gpt-researcher) [![GitHub stars](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=social&color=white)](https://github.com/assafelovic/gpt-researcher/stargazers)
+### 8. [GPT Researcher](https://github.com/assafelovic/gpt-researcher) [![GitHub_Stars](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=social&color=white)](https://github.com/assafelovic/gpt-researcher/stargazers)
 - **GitHub Repository**: [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher)
 - **License**: Apache-2.0
 - **Primary Focus**: Autonomous research multi-agent system for web scraping, source filtering, and comprehensive report synthesis.
@@ -166,7 +166,7 @@ Below is the curated list of premier open-source multi-agent systems and develop
 
 ---
 
-### 9. [smolagents](https://github.com/huggingface/smolagents) [![GitHub stars](https://img.shields.io/github/stars/huggingface/smolagents?style=social&color=white)](https://github.com/huggingface/smolagents/stargazers)
+### 9. [smolagents](https://github.com/huggingface/smolagents) [![GitHub_Stars](https://img.shields.io/github/stars/huggingface/smolagents?style=social&color=white)](https://github.com/huggingface/smolagents/stargazers)
 - **GitHub Repository**: [huggingface/smolagents](https://github.com/huggingface/smolagents)
 - **License**: Apache-2.0
 - **Primary Focus**: Lightweight, code-first agent framework developed by Hugging Face with minimal abstraction overhead.
@@ -178,7 +178,7 @@ Below is the curated list of premier open-source multi-agent systems and develop
 
 ---
 
-### 10. [Semantic Kernel](https://github.com/microsoft/semantic-kernel) [![GitHub stars](https://img.shields.io/github/stars/microsoft/semantic-kernel?style=social&color=white)](https://github.com/microsoft/semantic-kernel/stargazers)
+### 10. [Semantic Kernel](https://github.com/microsoft/semantic-kernel) [![GitHub_Stars](https://img.shields.io/github/stars/microsoft/semantic-kernel?style=social&color=white)](https://github.com/microsoft/semantic-kernel/stargazers)
 - **GitHub Repository**: [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel)
 - **License**: MIT
 - **Primary Focus**: Enterprise-grade multi-agent orchestration SDK spanning Python, C# (.NET), and Java.
@@ -190,7 +190,7 @@ Below is the curated list of premier open-source multi-agent systems and develop
 
 ---
 
-### 11. [Letta (formerly MemGPT)](https://github.com/letta-ai/letta) [![GitHub stars](https://img.shields.io/github/stars/letta-ai/letta?style=social&color=white)](https://github.com/letta-ai/letta/stargazers)
+### 11. [Letta (formerly MemGPT)](https://github.com/letta-ai/letta) [![GitHub_Stars](https://img.shields.io/github/stars/letta-ai/letta?style=social&color=white)](https://github.com/letta-ai/letta/stargazers)
 - **GitHub Repository**: [letta-ai/letta](https://github.com/letta-ai/letta)
 - **License**: Apache-2.0
 - **Primary Focus**: Stateful multi-agent systems with tiered operating-system-like hierarchical memory management.
@@ -202,7 +202,7 @@ Below is the curated list of premier open-source multi-agent systems and develop
 
 ---
 
-### 12. [PydanticAI](https://github.com/pydantic/pydantic-ai) [![GitHub stars](https://img.shields.io/github/stars/pydantic/pydantic-ai?style=social&color=white)](https://github.com/pydantic/pydantic-ai/stargazers)
+### 12. [PydanticAI](https://github.com/pydantic/pydantic-ai) [![GitHub_Stars](https://img.shields.io/github/stars/pydantic/pydantic-ai?style=social&color=white)](https://github.com/pydantic/pydantic-ai/stargazers)
 - **GitHub Repository**: [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai)
 - **License**: MIT
 - **Primary Focus**: Type-safe, Pythonic agent framework built on top of Pydantic validation by the official Pydantic team.
@@ -214,7 +214,7 @@ Below is the curated list of premier open-source multi-agent systems and develop
 
 ---
 
-### 13. [CAMEL](https://github.com/camel-ai/camel) [![GitHub stars](https://img.shields.io/github/stars/camel-ai/camel?style=social&color=white)](https://github.com/camel-ai/camel/stargazers)
+### 13. [CAMEL](https://github.com/camel-ai/camel) [![GitHub_Stars](https://img.shields.io/github/stars/camel-ai/camel?style=social&color=white)](https://github.com/camel-ai/camel/stargazers)
 - **GitHub Repository**: [camel-ai/camel](https://github.com/camel-ai/camel)
 - **License**: Apache-2.0
 - **Primary Focus**: Communicative agent framework for exploring cooperative and competitive multi-agent game-theoretic dynamics.
@@ -226,7 +226,7 @@ Below is the curated list of premier open-source multi-agent systems and develop
 
 ---
 
-### 14. [SuperAGI](https://github.com/TransformerOptimus/SuperAGI) [![GitHub stars](https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=social&color=white)](https://github.com/TransformerOptimus/SuperAGI/stargazers)
+### 14. [SuperAGI](https://github.com/TransformerOptimus/SuperAGI) [![GitHub_Stars](https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=social&color=white)](https://github.com/TransformerOptimus/SuperAGI/stargazers)
 - **GitHub Repository**: [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI)
 - **License**: MIT
 - **Primary Focus**: Developer-first autonomous agent infrastructure with graphical management console and tool marketplace.
@@ -268,7 +268,7 @@ We welcome contributions from researchers, framework authors, and production pra
 3. 📝 **Add or Update Entries**:
    - Provide accurate links to official repositories or official websites.
    - For SaaS products: include specific starting prices, specific free tier limits, and verifiable revenue/valuation metrics.
-   - For open-source repos: include shields.io social star badge linking to the stargazers page.
+   - For open-source repos: include shields.io social Stars_Badge linking to the stargazers page.
 4. ✅ **Ensure Formatting Consistency**: Maintain alphabetical or metric-based sorting as designated in the respective sections.
 5. 🚀 **Submit a Pull Request** with a clear explanation of additions.
 
